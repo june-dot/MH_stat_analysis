@@ -1,6 +1,8 @@
 # Mental Health Statistical Analysis
 
-This dataset imported from Kaggle offers a comprehensive hourly analysis of logistics drivers in Texas, capturing key physiological, psychological, and contextual factors that influence their mental health spanning from January 1, 2017, to June 30, 2024. This type of algorithm would be able to give further insight to inform targeted interventions, enhance monitoring systems, and promote data-driven strategies to improve driver welfare in the transportation industry (i.e. logistics, airplane, ocean freight)
+This dataset imported from Kaggle offers a comprehensive hourly analysis of logistics drivers in Texas, capturing key physiological, psychological, and contextual factors that influence their mental health spanning from January 1, 2017, to June 30, 2024. This type of algorithm would be able to give further insight to inform targeted interventions, enhance monitoring systems, and promote data-driven strategies to improve driver welfare in the transportation industry (i.e. logistics, airplane, ocean freight).
+
+I used Pearson and Spearman correlation analysis to find the p-values and test the statistical significance between the factors and well-being. Any feedback is welcome! :)
 
 ![image](https://github.com/user-attachments/assets/cab3aa1a-9240-44ec-83f5-ff4aef35b6f2)
 ![image](https://github.com/user-attachments/assets/bbac624d-8196-4f51-b236-5e96799d4bf6)
